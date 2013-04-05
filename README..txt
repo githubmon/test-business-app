@@ -1,7 +1,6 @@
 
 Demo project to find out how to implement a Business library with Hibernate and PostgreDB.
 
-
 ======== PROJECT BUILD ======
 ** IDE **
 Eclipse Juno Service Release 1 
